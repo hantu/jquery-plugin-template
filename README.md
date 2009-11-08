@@ -4,14 +4,11 @@ Simple template for a jQuery plugin, to serve as a personal reference.
 
 ## Author
 
-Andy Goh (hantu)
-
-[andygoh.net](http://www.andygoh.net)
+[Andy Goh](http://www.andygoh.net) (hantu)
 
 # Revisions
 
-* 0.1 (9th November 2009)
- * Initial commit
+* 0.1 - Initial commit (9 Nov 2009)
 
 # References
 
